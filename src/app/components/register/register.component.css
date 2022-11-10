@@ -1,0 +1,48 @@
+form {
+    width: 500px;
+  }
+  
+  .row {
+    width: 100%;
+  }
+  
+  .row .col {
+    padding: 10px 0;
+  }
+  
+  .col .form-label {
+    padding: 0 10px;
+  }
+  
+  .text-center {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .text-danger {
+    color: red;
+    padding: 0 10px;
+  }
+  
+  .col .m-1 {
+    padding: 0 10px;
+  }
+  
+  .ps-3 {
+    display: flex;
+  }
+  .form-check-inline {
+    display: flex;
+    padding: 0 5px;
+    align-items: center;
+  }
+  
+  .row .offset-3 {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+  }
+  
